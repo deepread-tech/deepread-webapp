@@ -14,7 +14,7 @@ DeepRead is a complete document AI platform with four capabilities, one API:
 
 - **OCR & Structured Extraction** — Extract text or typed JSON fields from PDFs and images with confidence scoring and human-in-the-loop flags
 - **PDF Form Filling** — Fill blank PDF forms with AI vision (works on scanned, non-editable forms — no AcroForm required)
-- **PII Redaction** — Detect and redact 14 types of PII (names, SSNs, credit cards, medical records, etc.) with irreversible black bars (HIPAA/GDPR ready)
+- **PII Redaction** — Detect and redact 14 types of PII (names, SSNs, credit cards, medical records, etc.) with irreversible black bars, built for HIPAA/GDPR redaction workflows
 - **Bring Your Own Key (BYOK)** — Connect your own OpenAI, Google, or OpenRouter API key — pay zero DeepRead LLM costs, page quota skipped entirely
 
 ## What This Web App Does
